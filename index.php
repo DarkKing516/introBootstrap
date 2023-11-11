@@ -27,7 +27,7 @@
         <h1>esta es la version one</h1>
     </div>
 
-    <h2>ahora si 7.7</h2>
+    <h2>ahora no 7.7</h2>
 </body>
 
 </html>
