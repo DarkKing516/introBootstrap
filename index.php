@@ -26,7 +26,8 @@
         <h1>Bienvenido al sistema</h1>
         <h1>esta es la version one</h1>
     </div>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit hic molestiae dolores sunt aspernatur natus cupiditate a unde quis. Sed officiis ut quia velit nihil deserunt veniam accusantium, beatae odit.</p>
+
+    <h2>ahora si 7.7</h2>
 </body>
 
 </html>
