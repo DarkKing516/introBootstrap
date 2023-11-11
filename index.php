@@ -24,6 +24,7 @@
 
     <div class="content">
         <h1>Bienvenido al sistema</h1>
+        <h1>esta es la version one</h1>
     </div>
 
 </body>
