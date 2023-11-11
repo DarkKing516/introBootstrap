@@ -1,0 +1,18 @@
+body{
+    min-height: 100vh;
+    display: flex;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+}
+body {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+
+}
+
+.contenedorxd {
+    width: 100%;
+}
